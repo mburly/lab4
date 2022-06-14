@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace CSVtoPSV
 {
-    internal class State
+    public class State
     {
+        private string _abbreviation;
+        private string _fullName;
+        public string Abbreviation
+        {
+            get { return _abbreviation; }
+        }
+        public string FullName
+        {
+            get { return _fullName; }
+        }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\obj\Debug\net6.0\CSVtoPSV.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\obj\Debug\net6.0\CSVtoPSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\obj\Debug\net6.0\CSVtoPSV.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\obj\Debug\net6.0\CSVtoPSV.AssemblyInfo.cs
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\obj\Debug\net6.0\CSVtoPSV.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\bin\Debug\net6.0\CSVtoPSV.exe
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\bin\Debug\net6.0\CSVtoPSV.deps.json
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\bin\Debug\net6.0\CSVtoPSV.runtimeconfig.json
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\bin\Debug\net6.0\CSVtoPSV.dll
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\bin\Debug\net6.0\CSVtoPSV.pdb
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\obj\Debug\net6.0\CSVtoPSV.dll
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\obj\Debug\net6.0\refint\CSVtoPSV.dll
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\obj\Debug\net6.0\CSVtoPSV.pdb
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\obj\Debug\net6.0\CSVtoPSV.genruntimeconfig.cache
+C:\Users\Michael\Desktop\lab4\CSVtoPSV\CSVtoPSV\obj\Debug\net6.0\ref\CSVtoPSV.dll

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CSVtoPSV
 {
-    internal class FileRoot
+    public class FileRoot
     {
+        public static string Root => Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.ToString();
     }
 }
