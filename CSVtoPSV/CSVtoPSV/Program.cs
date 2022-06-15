@@ -48,6 +48,8 @@
                             string zipCode = info[7];
                             string p1 = info[8];
                             string p2 = info[9];
+
+                            // In the case of a comma being in the address, we have to increase the index by 1.
                             if (a[0] != '"')
                             {
                                 a = info[4];
@@ -58,10 +60,10 @@
                                 p2 = info[10];
 
                             }
-
                             Phone phone1 = ParsePhone(p1);
                             Phone phone2 = ParsePhone(p2);
 
+                            // Parsing the address
                             a = a.Trim('"');
                             int number;
                             Int32.TryParse(a.Split(' ')[0], out number);
